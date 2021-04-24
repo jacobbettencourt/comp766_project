@@ -1,2 +1,2 @@
 # comp766_project
-Probabilistic Graphical Models course project code.
+Repository for McGill Comp766, Probabilistic Graphical Models, course project, "Evaluating the Effect of Different Image Modalities on Convoutional Neural Networks."
